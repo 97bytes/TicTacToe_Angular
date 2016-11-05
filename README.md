@@ -5,9 +5,9 @@ Este proyecto es una prueba de concepto del juego de 3 en línea (Tic-Tac-Toe), 
 * El módulo cliente implementado en **Angular 2** y TypeScript
 * Un **servicio RESTful** que representa al oponente del usuario
 
-![TicTacToe](tictactoe.png)
-
 El juego está [disponible aquí](http://gabrielcasarini.com/tictactoe/).
+
+![TicTacToe](tictactoe.png)
 
 Puesta en marcha
 ================
