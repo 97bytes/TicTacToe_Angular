@@ -15,7 +15,7 @@ Para poner en marcha el servidor de desarrollo:
 
 	ng serve
 
-Para ejeuctar las pruebas unitarias:
+Para ejecutar las pruebas unitarias:
 
 	ng test
 
