@@ -404,21 +404,6 @@ export class WaitingForRobotPlayer extends State {
 		return true;
 	}
 
-	robotPlay(controller: GameController) {
-		for (var y = 0; y < controller.numberOfRows(); y++) {
-			for (var x = 0; x < controller.numberOfColumns(); x++) {
-				if(controller.isEmptyAtCell(x, y)) {
-					controller.board.setSymbolAtCell(x, y, "O");
-					controller.validateGameOver();
-					if(!controller.isGameOver()) {
-						controller.state = new WaitingForUserPlayer();
-					}
-					return;
-				}
-			}
-		}
-	}
-
 }
 
 export class ErrorState extends State {	
