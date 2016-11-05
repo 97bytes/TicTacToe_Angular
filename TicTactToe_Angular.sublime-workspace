@@ -1,0 +1,625 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ro",
+				"robotPlayWithDelay	method"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"s",
+				"state	property"
+			],
+			[
+				"WaitingFo",
+				"WaitingForRemotePlayer	class"
+			],
+			[
+				"isE",
+				"isError	method"
+			],
+			[
+				"is",
+				"isGameOver	method"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"border-b",
+				"border-bottom-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"to",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"user",
+				"userWinsCount	property"
+			],
+			[
+				"us",
+				"userWinsCount	property"
+			],
+			[
+				"con",
+				"controller	property"
+			],
+			[
+				"isG",
+				"isGameOverNoWinner	method"
+			],
+			[
+				"C",
+				"Coordinates	class"
+			],
+			[
+				"Err",
+				"ErrorState	class"
+			],
+			[
+				"st",
+				"statusMessage2	method"
+			],
+			[
+				"Str",
+				"String	interface"
+			],
+			[
+				"for",
+				"fori	for (…) {…}"
+			],
+			[
+				"isw",
+				"isWaitingForUserPlayer	method"
+			],
+			[
+				"isW",
+				"isWaitingForRemotePlayer	method"
+			],
+			[
+				"cont",
+				"controller	let"
+			],
+			[
+				"isWa",
+				"isWaitingForUserPlayer	method"
+			],
+			[
+				"Ga",
+				"GameOverState	class"
+			],
+			[
+				"sta",
+				"strategies	let"
+			],
+			[
+				"so",
+				"sort	method"
+			],
+			[
+				"va",
+				"validateGameShouldContinue	method"
+			],
+			[
+				"str",
+				"strategy	local var"
+			],
+			[
+				"evaluateBoard",
+				"evaluateBoardLeftUp	method"
+			],
+			[
+				"eva",
+				"evaluateBoardRightDown	method"
+			],
+			[
+				"or",
+				"originY	property"
+			],
+			[
+				"targ",
+				"targetY	property"
+			],
+			[
+				"sy",
+				"symbolPlayer1	property"
+			],
+			[
+				"ex",
+				"extends	keyword"
+			],
+			[
+				"Game",
+				"GameController	alias"
+			],
+			[
+				"win",
+				"winnerLine	let"
+			],
+			[
+				"toB",
+				"toBeNull	method"
+			],
+			[
+				"wi",
+				"winnerLine	method"
+			],
+			[
+				"nu",
+				"number	keyword"
+			],
+			[
+				"tob",
+				"toBe	method"
+			],
+			[
+				"WaitingFor",
+				"WaitingForUserPlayer	class"
+			],
+			[
+				"set",
+				"setSymbolAtCell	method"
+			],
+			[
+				"n",
+				"numberOfRows	method"
+			],
+			[
+				"cel",
+				"cell2	let"
+			],
+			[
+				"B",
+				"Board	class"
+			],
+			[
+				"Wa",
+				"WaitingForRemotePlayer	class"
+			],
+			[
+				"Wai",
+				"WaitingForPlayerToChooseCell	class"
+			],
+			[
+				"num",
+				"numberOfColumns	method"
+			],
+			[
+				"c",
+				"controller	property"
+			],
+			[
+				"b",
+				"board	parameter"
+			],
+			[
+				"col",
+				"columnIndexes	method"
+			],
+			[
+				"row",
+				"rowIndexes	method"
+			],
+			[
+				"style",
+				"styleUrls	property"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"se",
+				"selectedHero	property"
+			],
+			[
+				"_",
+				"_rosterService	parameter"
+			],
+			[
+				"Mess",
+				"MessageService	alias"
+			],
+			[
+				"Aft",
+				"AfterViewInit	alias"
+			],
+			[
+				"Afte",
+				"AfterViewInit	alias"
+			],
+			[
+				"Afe",
+				"AfterContentInit	alias"
+			],
+			[
+				"import",
+				"import	keyword"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"im",
+				"implements	keyword"
+			],
+			[
+				"cons",
+				"constructor	keyword"
+			],
+			[
+				"cl",
+				"class	class …"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gabriel/projects/TicTacToe/TicTacToe_Angular_Restful/TicTacToe_Robot_Service/.project",
+		"/Users/gabriel/projects/TicTacToe/TicTacToe_Angular_Restful/notas.html",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/app/robot.service.ts",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/dist/index.html",
+		"/Users/gabriel/Desktop/SGFSE14/notas.html",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/documentacion/notas.css",
+		"/Users/gabriel/Desktop/SGFSE14/documentacion/notas.css",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/package.json",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/app/game-board.component.spec.ts",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/app/game-controller.spec.ts",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/index.html",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/app/game-board.component.ts",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/app/game-board.component.html",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/.gitignore",
+		"/Users/gabriel/projects/web_site_gabriel/notas.txt",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/app/game-controller.ts",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/player_x_win.svg",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/player_o_win.svg",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/app/app.component.ts",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/app/app.module.ts",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/player_x_normal.svg",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/styles.css",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/empty_cell.svg",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/waiting.svg",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/player_x_ties.svg",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/player_o_ties.svg",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/maqueta.html",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/maqueta.css",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/player_o_normal.svg",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/siri.html",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/siriwave.js",
+		"/Users/gabriel/Downloads/siriwave.js",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/player_o_red.png",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/player_o.svg",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/player_x.svg",
+		"/Users/gabriel/Downloads/vectorpaint.svg",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/app/app.component.html",
+		"/Users/gabriel/projects/Java/TicTacToe/TicTacToe_Angular/src/app/index.ts",
+		"/Users/gabriel/projects/Java/TicTacToe/Angular/protractor.conf.js",
+		"/Users/gabriel/projects/Java/TicTacToe/Angular/package.json",
+		"/Users/gabriel/projects/Java/TicTacToe/Angular/TicTactToe_Angular.sublime-project",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/package.json",
+		"/usr/local/lib/node_modules/npm/README.md",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/robot.service.ts",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/game-controller.ts",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/game-board.component.ts",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/game-board.component.html",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/notas.txt",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/robot.service.spec.ts",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/game-board.component.spec.ts",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/game-controller.spec.ts",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/systemjs.config.js",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/unit-tests.html",
+		"/Users/gabriel/projects/web_site_gabriel/proyecto_jekyll/_posts/2016-08-26-robots_eticos.markdown",
+		"/Users/gabriel/projects/web_site_gabriel/proyecto_jekyll/_posts/2012-10-27-primeros_pasos_apps.markdown",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/game-controller.js",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/game-board.js",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/app.component.ts",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/tsconfig.json",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/liteserver-test-config.json",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/app.module.ts",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/typings.json",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/main.ts",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/index.html",
+		"/Users/gabriel/projects/Java/TicTacToe-Angular2/app/styles.css",
+		"/Users/gabriel/projects/angular2-tutorial-tour-of-heroes/_notas.txt",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/npm-debug.log",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/dashboard.component.html",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/dashboard.component.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/hero-search.service.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/hero-search.component.html",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/hero-search.component.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/rxjs-extensions.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/hero.service.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/app.component.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/dashboard.component.js.map",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/heroes.component.html",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/hero-detail.component.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/heroes.component.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/hero-detail.component.html",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/main.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/in-memory-data.service.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/styles.css",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/app.component.css",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/hero-detail.component.css",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/dashboard.component.css",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/heroes.component.css",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/hero-detail.component.js",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/app.routes.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/index.html",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/mock-heroes.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/hero.ts",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/app/app.component.js",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/package.json",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/tsconfig.json",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/typings.json",
+		"/Users/gabriel/temp/angular2-tour-of-heroes/systemjs.config.js",
+		"/Users/gabriel/temp/Angular12_Homework/app/main.ts",
+		"/Users/gabriel/temp/Angular12_Homework/app/svc.roster.ts",
+		"/Users/gabriel/temp/Angular12_Homework/app/list.component.ts",
+		"/Users/gabriel/temp/Angular12_Homework/app/app.component.html",
+		"/Users/gabriel/temp/Angular12_Homework/app/app.component.ts",
+		"/Users/gabriel/temp/Angular12_Homework/typings/main/ambient/node/index.d.ts",
+		"/Users/gabriel/temp/Angular11_modularity/app/main.ts",
+		"/Users/gabriel/temp/Angular10_lifecycle/app/app.component.html",
+		"/Users/gabriel/temp/Angular10_lifecycle/app/app.component.ts",
+		"/Users/gabriel/temp/Angular10_lifecycle/app/main.ts",
+		"/Users/gabriel/temp/Angular09_Homework/app/list.component.ts",
+		"/Users/gabriel/temp/Angular09_Homework/app/list.component.html",
+		"/Users/gabriel/temp/Angular09_Homework/app/student.data.ts",
+		"/Users/gabriel/temp/notas_angular.txt",
+		"/Users/gabriel/temp/Angular4/script.ts",
+		"/Users/gabriel/temp/MiProyecto/script.ts",
+		"/Users/gabriel/temp/MiProyecto/app.ts",
+		"/Users/gabriel/temp/MiProyecto/app/list.component.ts",
+		"/Users/gabriel/temp/p1.sublime-project",
+		"/Users/gabriel/temp/p1.sublime-workspace",
+		"/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/gabriel/temp/Angular4/package.json",
+		"/Users/gabriel/temp/Angular4/app/app.component.ts",
+		"/Users/gabriel/temp/Angular4/css/style.css",
+		"/Users/gabriel/temp/Angular4/app/list.component.ts",
+		"/Users/gabriel/temp/Angular4/index.html",
+		"/Users/gabriel/temp/Angular4/app/list.component.html",
+		"/Users/gabriel/temp/app.ts",
+		"/Users/gabriel/temp/Angular3/script.ts",
+		"/Users/gabriel/temp/Angular4/app/app.component.html",
+		"/Users/gabriel/temp/Angular4/node_modules/systemjs/dist/system.src.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"types",
+			"NoWinner",
+			"RemotePlayer",
+			"remote",
+			"NoWinner",
+			"remote",
+			"Remote",
+			"remote",
+			"Remote",
+			".png",
+			"weig",
+			"square",
+			"validateWinner",
+			"providers",
+			"new GameController()",
+			"new GameController();",
+			"remotePlayerPlay",
+			"---\n",
+			"isWinner(",
+			"Para",
+			"messag",
+			"@",
+			"star",
+			"ñ",
+			"ú",
+			"í",
+			"á",
+			"é",
+			"ó"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Ties",
+			"RobotPlayer",
+			"robot",
+			"Robot",
+			"robot",
+			"Robot",
+			".svg",
+			"cell",
+			"new GameController(null)",
+			"new GameController(null);",
+			"robotPlay",
+			"validateWinner(",
+			"ñ",
+			"ú",
+			"í",
+			"á",
+			"é",
+			"ó"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

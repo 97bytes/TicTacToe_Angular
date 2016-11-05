@@ -1,0 +1,91 @@
+<div class="scoresArea">
+    <p *ngIf="isUserPlayerWinner()" class="scoresRowBlink">
+    	Tú (X): {{userWinsCount()}}
+    </p>
+    <p *ngIf="!isUserPlayerWinner()" class="scoresRow">
+    	Tú (X): {{userWinsCount()}}
+    </p>
+
+    <p *ngIf="isRobotPlayerWinner()" class="scoresRowBlink">
+    	Robot (O): {{robotPlayerWinsCount()}}
+    </p>
+    <p *ngIf="!isRobotPlayerWinner()" class="scoresRow">
+    	Robot (O): {{robotPlayerWinsCount()}}
+    </p>
+    <p *ngIf="isGameOverTies()" class="scoresRowBlink">
+        Empate: {{tiesCount()}}
+    </p>
+    <p *ngIf="!isGameOverTies()" class="scoresRow">
+        Empate: {{tiesCount()}}
+    </p>
+    <p align="left">
+        <button (click)="newGame()" class="button">Nueva Partida</button>
+    </p>
+</div>
+ 
+<div class="game">
+    <div *ngIf="isWaitingForRobotPlayer()" class="waiting">
+        <img src="assets/waiting.svg">
+    </div>
+    <div *ngIf="!isErrorMessage()" class="message">{{statusMessage()}}</div>
+    <div *ngIf="isErrorMessage()" class="error">{{statusMessage()}}</div>
+    <div class="board">
+		<div *ngIf="isEmptyAtCell(0, 0)" (click)="selectCell(0, 0)" class="cell top left">
+			<img src="assets/empty_cell.svg">
+		</div>
+		<div *ngIf="!isEmptyAtCell(0, 0)" class="cell top left">
+			<img src="{{imageFileAtCell(0, 0)}}">
+		</div>
+		<div *ngIf="isEmptyAtCell(1, 0)" (click)="selectCell(1, 0)" class="cell top">
+			<img src="assets/empty_cell.svg">
+		</div>
+		<div *ngIf="!isEmptyAtCell(1, 0)" class="cell top">
+			<img src="{{imageFileAtCell(1, 0)}}">
+		</div>
+		<div *ngIf="isEmptyAtCell(2, 0)" (click)="selectCell(2, 0)" class="cell top right">
+			<img src="assets/empty_cell.svg">
+		</div>
+		<div *ngIf="!isEmptyAtCell(2, 0)" class="cell top right">
+			<img src="{{imageFileAtCell(2, 0)}}">
+		</div>
+
+		<div *ngIf="isEmptyAtCell(0, 1)" (click)="selectCell(0, 1)" class="cell left">
+			<img src="assets/empty_cell.svg">
+		</div>
+		<div *ngIf="!isEmptyAtCell(0, 1)" class="cell left">
+			<img src="{{imageFileAtCell(0, 1)}}">
+		</div>
+		<div *ngIf="isEmptyAtCell(1, 1)" (click)="selectCell(1, 1)" class="cell">
+			<img src="assets/empty_cell.svg">
+		</div>
+		<div *ngIf="!isEmptyAtCell(1, 1)" class="cell">
+			<img src="{{imageFileAtCell(1, 1)}}">
+		</div>
+		<div *ngIf="isEmptyAtCell(2, 1)" (click)="selectCell(2, 1)" class="cell right">
+			<img src="assets/empty_cell.svg">
+		</div>
+		<div *ngIf="!isEmptyAtCell(2, 1)" class="cell right">
+			<img src="{{imageFileAtCell(2, 1)}}">
+		</div>
+
+		<div *ngIf="isEmptyAtCell(0, 2)" (click)="selectCell(0, 2)" class="cell bottom left">
+			<img src="assets/empty_cell.svg">
+		</div>
+		<div *ngIf="!isEmptyAtCell(0, 2)" class="cell bottom left">
+			<img src="{{imageFileAtCell(0, 2)}}">
+		</div>
+		<div *ngIf="isEmptyAtCell(1, 2)" (click)="selectCell(1, 2)" class="cell bottom">
+			<img src="assets/empty_cell.svg">
+		</div>
+		<div *ngIf="!isEmptyAtCell(1, 2)" class="cell bottom">
+			<img src="{{imageFileAtCell(1, 2)}}">
+		</div>
+		<div *ngIf="isEmptyAtCell(2, 2)" (click)="selectCell(2, 2)" class="cell bottom right">
+			<img src="assets/empty_cell.svg">
+		</div>
+		<div *ngIf="!isEmptyAtCell(2, 2)" class="cell bottom right">
+			<img src="{{imageFileAtCell(2, 2)}}">
+		</div>
+    </div>
+</div>
+
