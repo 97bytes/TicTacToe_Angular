@@ -7,6 +7,8 @@ Este proyecto es una prueba de concepto del juego de 3 en línea (Tic-Tac-Toe), 
 
 ![TicTacToe](tictactoe.png)
 
+El juego está [disponible aquí](http://gabrielcasarini.com/tictactoe/).
+
 Puesta en marcha
 ================
 El proyecto fue creado con Angular Cli v1.0.0-beta.19-3

@@ -78,7 +78,8 @@ export class GameController {
 
 	/**
 	 * Es el turno del robot. Se invoca al servicio remoto de forma asíncrona
-	 * y se actualiza el tablero con el resultado (coordenadas de la celda elegida por el robot). Si ocurre un error durante la invocación, se muestra un mensaje al usuario.
+	 * y se actualiza el tablero con el resultado (coordenadas de la celda elegida por el robot). 
+	 * Si ocurre un error durante la invocación, se muestra un mensaje al usuario.
 	 */
 	robotPlay() {
 		let b = this.board.toString()
