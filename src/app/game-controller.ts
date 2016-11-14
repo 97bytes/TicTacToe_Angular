@@ -428,7 +428,7 @@ export class GameOverState extends State {
 		this.winnerSymbol = aSymbol;
 
 		if(this.winnerSymbol == "X") {
-			this.statusMessage = "La partida ha terminado y tu has ganado.";
+			this.statusMessage = "La partida ha terminado y eres el ganador.";
 		} else if(this.winnerSymbol == "O") {
 			this.statusMessage = "La partida ha terminado y el robot ha ganado.";
 		} else if(this.winnerSymbol == null) {
