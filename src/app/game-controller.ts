@@ -376,7 +376,7 @@ export class WaitingForUserPlayer extends State {
 
 	constructor() {
 		super();
-		this.statusMessage = "Es tu turno.";
+		this.statusMessage = "Es tu turno...";
 	}
 
 	isWaitingForUserPlayer() {
@@ -398,7 +398,7 @@ export class WaitingForRobotPlayer extends State {
 
 	constructor() {
 		super();
-		this.statusMessage = "Turno del jugador remoto.";
+		this.statusMessage = "Es el turno del robot. Espera...";
 	}
 
 	isWaitingForRobotPlayer() {

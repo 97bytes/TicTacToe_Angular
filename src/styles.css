@@ -86,7 +86,7 @@ body {
     width: 100%;
     border-bottom: 2px;
     border-bottom-style: solid;
-    color: #31363f;
+    color: #343d3d;
     animation: blinker 1s linear infinite;
 }
 
